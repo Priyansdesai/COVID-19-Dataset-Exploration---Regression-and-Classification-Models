@@ -1,0 +1,227 @@
+﻿Country,Total_Confirmed,Total_confirmed_new,Total_deaths,Total_new_deaths,Transmission
+South Africa,5951,304,116,13,Community transmission
+Algeria,4154,148,453,3,Community transmission
+Nigeria,2170,238,68,10,Community transmission
+Ghana,2074,0,17,0,Clusters of cases
+Cameroon,2069,237,61,0,Clusters of cases
+Guinea,1537,42,7,0,Community transmission
+Côte d’Ivoire,1275,0,14,0,Clusters of cases
+Senegal,1024,91,9,0,Clusters of cases
+Niger,728,9,33,1,Clusters of cases
+Burkina Faso,649,4,44,1,Community transmission
+"Democratic Republic of the
+Congo",604,32,32,1,Clusters of cases
+Mali,508,18,26,0,Clusters of cases
+United Republic of Tanzania,480,0,17,0,Clusters of cases
+Kenya,411,15,21,4,Clusters of cases
+Mauritius,332,0,10,0,Community transmission
+Equatorial Guinea,315,0,2,0,Clusters of cases
+Gabon,308,32,4,1,Clusters of cases
+Guinea-Bissau,257,56,1,0,Sporadic cases
+Rwanda,249,6,0,0,Clusters of cases
+Congo,229,9,10,1,Clusters of cases
+Liberia,152,11,18,2,Clusters of cases
+Sierra Leone,136,12,8,1,Clusters of cases
+Madagascar,135,3,0,0,Clusters of cases
+Ethiopia,133,2,3,0,Clusters of cases
+Togo,123,7,9,0,Clusters of cases
+Cabo Verde,121,0,1,0,Sporadic cases
+Zambia,109,3,3,0,Sporadic cases
+Eswatini,106,6,1,0,Sporadic cases
+Benin,90,6,2,0,Sporadic cases
+Uganda,83,2,0,0,Sporadic cases
+Mozambique,79,3,0,0,Sporadic cases
+Chad,73,0,5,2,Sporadic cases
+Central African Republic,64,0,0,0,Sporadic cases
+South Sudan,45,10,0,0,Sporadic cases
+Eritrea,39,0,0,0,Sporadic cases
+Malawi,37,0,3,0,Sporadic cases
+Zimbabwe,34,2,4,0,Sporadic cases
+Angola,29,2,2,0,Sporadic cases
+Botswana,23,0,1,0,Sporadic cases
+Namibia,16,0,0,0,Sporadic cases
+São Tomé and Príncipe,16,0,1,0,Sporadic cases
+Burundi,15,0,1,0,Sporadic cases
+Gambia,12,0,1,0,Sporadic cases
+Seychelles,11,0,0,0,Sporadic cases
+Mauritania,8,0,1,0,Sporadic cases
+Comoros,1,0,0,0,Pending
+Territoriesii,,,,,
+Mayotte,539,0,4,0,Clusters of cases
+Réunion,420,0,0,0,Clusters of cases
+Americas,,,,,
+United States of America,1067127,31774,57406,2069,Community transmission
+Brazil,85380,7218,5901,435,Community transmission
+Canada,53657,1601,3223,141,Community transmission
+Peru,36976,3045,1051,108,Community transmission
+Ecuador,26336,1402,1063,163,Community transmission
+Mexico,19224,1425,1859,127,Community transmission
+Chile,17008,985,234,7,Community transmission
+Dominican Republic,7288,316,313,12,Community transmission
+Panama,6532,154,188,10,Community transmission
+Colombia,6507,296,293,15,Community transmission
+Argentina,4476,172,220,5,Community transmission
+Cuba,1537,36,64,3,Clusters of cases
+Bolivia (Plurinational State of),1167,57,62,3,Clusters of cases
+Honduras,804,33,75,4,Clusters of cases
+Costa Rica,719,6,6,0,Clusters of cases
+Uruguay,643,13,17,2,Clusters of cases
+Guatemala,599,14,16,0,Clusters of cases
+El Salvador,424,29,10,1,Clusters of cases
+Jamaica,422,26,8,1,Clusters of cases
+"Venezuela (Bolivarian Republic
+of)",333,2,10,0,Clusters of cases
+Paraguay,266,17,10,1,Community transmission
+Trinidad and Tobago,116,0,8,0,Sporadic cases
+Guyana,82,4,9,1,Clusters of cases
+Bahamas,81,1,11,0,Clusters of cases
+Barbados,81,1,7,0,Clusters of cases
+Haiti,81,5,8,1,Clusters of cases
+Antigua and Barbuda,24,0,3,0,Clusters of cases
+Grenada,20,0,0,0,Clusters of cases
+Belize,18,0,2,0,Sporadic cases
+Saint Lucia,17,0,0,0,Sporadic cases
+Dominica,16,0,0,0,Clusters of cases
+"Saint Vincent and the
+Grenadines",16,0,0,0,Sporadic cases
+Saint Kitts and Nevis,15,0,0,0,Sporadic cases
+Nicaragua,14,0,4,0,Pending
+Suriname,10,0,1,0,Sporadic cases
+Territoriesii,,,,,
+Puerto Rico,1575,36,54,0,Clusters of cases
+Martinique,179,1,14,0,Clusters of cases
+Guadeloupe,152,0,12,0,Clusters of cases
+French Guiana,128,2,1,0,Clusters of cases
+Bermuda,114,3,6,0,Clusters of cases
+Aruba,100,0,2,0,Clusters of cases
+Sint Maarten,76,0,13,0,Clusters of cases
+Cayman Islands,73,0,1,0,Clusters of cases
+United States Virgin Islands,66,0,4,0,Clusters of cases
+Saint Martin,38,0,3,0,Sporadic cases
+Curaçao,16,0,1,0,Sporadic cases
+Falkland Islands (Malvinas),13,0,0,0,Clusters of cases
+Turks and Caicos Islands,12,0,1,0,Sporadic cases
+Montserrat,11,0,1,0,Sporadic cases
+"Bonaire, Sint Eustatius and
+Saba",6,0,0,0,Sporadic cases
+British Virgin Islands,6,0,1,0,Sporadic cases
+Saint Barthélemy,6,0,0,0,Sporadic cases
+Anguilla,3,0,0,0,Sporadic cases
+Saint Pierre and Miquelon,1,0,0,0,Sporadic cases
+Eastern Mediterranean,,,,,
+Iran (Islamic Republic of),95646,1006,6091,63,Community transmission
+Saudi Arabia,24097,1344,169,7,Clusters of cases
+Pakistan,18114,1297,417,32,Clusters of cases
+Qatar,14096,687,12,2,Pending
+United Arab Emirates,13038,557,111,6,Pending
+Egypt,5895,358,406,14,Clusters of cases
+Morocco,4569,146,171,1,Clusters of cases
+Kuwait,4377,353,30,4,Clusters of cases
+Bahrain,3170,130,8,0,Clusters of cases
+Oman,2483,36,11,0,Clusters of cases
+Afghanistan,2469,298,72,8,Clusters of cases
+Iraq,2153,68,94,1,Clusters of cases
+Djibouti,1097,8,2,0,Clusters of cases
+Tunisia,998,4,41,0,Community transmission
+Lebanon,729,4,24,0,Clusters of cases
+Somalia,601,0,28,0,Sporadic cases
+Sudan,533,91,36,5,Sporadic cases
+Jordan,459,6,8,0,Clusters of cases
+Libya,63,2,3,0,Clusters of cases
+Syrian Arab Republic,44,1,3,0,Community transmission
+Yemen,7,1,2,0,Pending
+occupied Palestinian territory,353,9,2,0,Clusters of cases
+Spain,215216,1781,24824,281,Community transmission
+Italy,207428,1965,28236,269,Community transmission
+The United Kingdom,177458,6201,27510,739,Community transmission
+Germany,161703,2584,6575,287,Community transmission
+France,128722,601,24560,218,Community transmission
+Russian Federation,124054,9623,1222,53,Clusters of cases
+Turkey,122392,2188,3258,84,Community transmission
+Belgium,49032,513,7703,109,Community transmission
+Netherlands,39791,475,4893,98,Community transmission
+Switzerland,29622,119,1434,12,Community transmission
+Portugal,25351,295,1007,18,Community transmission
+Sweden,21520,428,2653,67,Community transmission
+Ireland,20833,221,1265,33,Community transmission
+Israel,16152,148,227,4,Pending
+Austria,15531,74,589,5,Community transmission
+Belarus,14917,890,93,4,Clusters of cases
+Poland,13105,228,651,7,Community transmission
+Romania,12567,327,744,27,Community transmission
+Ukraine,11411,550,279,7,Community transmission
+Denmark,9311,153,460,8,Pending
+Serbia,9205,196,185,6,Pending
+Norway,7759,49,204,0,Pending
+Czechia,7737,55,240,4,Community transmission
+Finland,5051,56,218,7,Pending
+Republic of Moldova,3980,83,122,3,Pending
+Luxembourg,3802,18,92,2,Pending
+Kazakhstan,3785,234,25,0,Pending
+Hungary,2942,79,335,12,Clusters of cases
+Greece,2591,0,140,0,Community transmission
+Armenia,2273,125,33,0,Clusters of cases
+Uzbekistan,2094,48,9,0,Clusters of cases
+Croatia,2085,9,75,6,Community transmission
+Azerbaijan,1854,50,25,1,Clusters of cases
+Iceland,1798,1,10,0,Community transmission
+Bosnia and Herzegovina,1757,0,68,0,Community transmission
+Estonia,1694,5,52,0,Pending
+Bulgaria,1588,82,69,3,Clusters of cases
+North Macedonia,1494,29,81,4,Clusters of cases
+Slovenia,1434,5,93,2,Community transmission
+Slovakia,1403,7,23,0,Clusters of cases
+Lithuania,1399,14,45,0,Community transmission
+Latvia,870,12,16,1,Community transmission
+Cyprus,857,7,20,0,Clusters of cases
+Albania,789,16,31,0,Clusters of cases
+Kyrgyzstan,769,13,8,0,Clusters of cases
+Andorra,746,0,43,1,Community transmission
+Georgia,582,16,8,2,Community transmission
+San Marino,580,11,41,0,Community transmission
+Malta,467,2,4,0,Pending
+Montenegro,322,0,7,0,Clusters of cases
+Liechtenstein,83,0,1,0,Pending
+Monaco,68,0,1,0,Sporadic cases
+Tajikistan,32,17,0,0,Pending
+Holy See,11,0,0,0,Sporadic cases
+Kosovo,813,14,22,0,Community transmission
+Isle of Man,311,0,22,0,Pending
+Jersey,290,0,22,2,Pending
+Guernsey,251,0,13,0,Community transmission
+Faroe Islands,187,0,0,0,Pending
+Gibraltar,144,3,0,0,Clusters of cases
+Greenland,11,0,0,0,Pending
+South-East Asia,,,,,
+India,37336,2293,1218,71,Clusters of cases
+Indonesia,10551,433,800,8,Community transmission
+Bangladesh,8238,571,170,2,Pending
+Thailand,2966,6,54,0,Clusters of cases
+Sri Lanka,690,25,7,0,Clusters of cases
+Maldives,468,72,1,1,Clusters of cases
+Myanmar,151,0,6,0,Clusters of cases
+Nepal,59,2,0,0,Sporadic cases
+Timor-Leste,24,0,0,0,Clusters of cases
+Bhutan,7,0,0,0,Sporadic cases
+Western Pacific,,,,,
+China,84388,3,4643,0,Clusters of cases
+Singapore,17101,932,16,1,Clusters of cases
+Japan,14545,264,454,22,Clusters of cases
+Republic of Korea,10780,6,250,2,Clusters of cases
+Philippines,8772,284,579,11,Clusters of cases
+Australia,6767,5,93,1,Clusters of cases
+Malaysia,6071,69,103,1,Clusters of cases
+New Zealand,1134,2,20,1,Clusters of cases
+Viet Nam,270,0,0,0,Clusters of cases
+Brunei Darussalam,138,0,1,0,Sporadic cases
+Cambodia,122,0,0,0,Sporadic cases
+Mongolia,38,0,0,0,Sporadic cases
+"Lao People's Democratic
+Republic",19,0,0,0,Sporadic cases
+Fiji,18,0,0,0,Sporadic cases
+Papua New Guinea,8,0,0,0,Sporadic cases
+Territoriesii,,,,,
+Guam,142,0,5,0,Clusters of cases
+French Polynesia,58,0,0,0,Sporadic cases
+New Caledonia,18,0,0,0,Sporadic cases
+,,,,,
